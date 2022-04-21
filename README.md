@@ -15,7 +15,7 @@ The GOMYDOCS is online learning management tool helps students and teachers to h
 * Final Grades
 * And much more!
  
- ## Instructor dashboard
+ # Instructor dashboard
  
 ![Capture d’écran 2022-04-21 à 12 50 05](https://user-images.githubusercontent.com/61707024/164479823-0ffc6183-fd6c-4d77-9183-bae0b0f0d1f5.png)
 ![Capture d’écran 2022-04-21 à 12 50 26](https://user-images.githubusercontent.com/61707024/164479932-0cdf86f2-c295-4ad8-8247-1c39a137890e.png)
@@ -50,7 +50,28 @@ The GOMYDOCS is online learning management tool helps students and teachers to h
 ![Capture d’écran 2022-04-21 à 13 28 45](https://user-images.githubusercontent.com/61707024/164480304-a5e43ea0-c797-4ebf-9a4d-0d3354a5c1a8.png)
 ![Capture d’écran 2022-04-21 à 13 28 52](https://user-images.githubusercontent.com/61707024/164480309-2f4d57e2-3818-469c-be4d-22121a0dbf81.png)
 
+ # Student dashboard
+
+![Capture d’écran 2022-04-21 à 13 30 08](https://user-images.githubusercontent.com/61707024/164481637-951b305a-075b-4930-bd9e-1f2898ced9a7.png)
+![Capture d’écran 2022-04-21 à 13 30 24](https://user-images.githubusercontent.com/61707024/164481648-5979e5f8-607a-43ad-b5a7-670d92abcc82.png)
+![Capture d’écran 2022-04-21 à 13 31 34](https://user-images.githubusercontent.com/61707024/164481659-07a1fc7d-8382-4cba-a3e6-582417fcae25.png)
+
+![Capture d’écran 2022-04-21 à 13 31 54](https://user-images.githubusercontent.com/61707024/164481669-e1d7d118-db78-4136-a6aa-4f3b3acd9df1.png)
+![Capture d’écran 2022-04-21 à 13 33 31](https://user-images.githubusercontent.com/61707024/164481679-28db6f24-658f-4ad3-8970-6ad7c5e7a588.png)
+![Capture d’écran 2022-04-21 à 13 33 50](https://user-images.githubusercontent.com/61707024/164481689-3bc25a85-281d-4e58-ab51-8941a56a9fcf.png)
+![Capture d’écran 2022-04-21 à 13 34 06](https://user-images.githubusercontent.com/61707024/164481722-1df126df-7df3-4cae-bbfc-b7bb223322a3.png)
+![Capture d’écran 2022-04-21 à 13 34 24](https://user-images.githubusercontent.com/61707024/164481731-1a7b6095-bd95-423a-abdb-8e017cf95465.png)
+![Capture d’écran 2022-04-21 à 13 35 08](https://user-images.githubusercontent.com/61707024/164481753-84ef14c4-0632-4ca9-8f24-3b3bb723fcef.png)
+![Capture d’écran 2022-04-21 à 13 35 40](https://user-images.githubusercontent.com/61707024/164481765-df5e7087-edf7-456b-b184-914cab626f35.png)
+![Capture d’écran 2022-04-21 à 13 35 49](https://user-images.githubusercontent.com/61707024/164481779-17dc619b-86a5-40b7-a738-c637c34d7741.png)
+![Capture d’écran 2022-04-21 à 13 36 04](https://user-images.githubusercontent.com/61707024/164481793-31c68745-9ae7-44b9-bcf0-1b282112ff6f.png)
+
+![Capture d’écran 2022-04-21 à 13 36 22](https://user-images.githubusercontent.com/61707024/164481819-d83d849c-c327-4537-9776-075bd89f35f9.png)
 
 
-
-
+### Instructor 
+Email : teacherfortest3@yahoo.fr
+Password : 123456789
+### Student
+Email : studenttest1@yahoo.fr
+Password : 123456789
